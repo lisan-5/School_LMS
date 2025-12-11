@@ -1,4 +1,4 @@
-# NovaLMS Monorepo
+# Nova Learning management system
 
 This repository contains both the backend (Laravel) and frontend (React + Vite + Material UI) for the NovaLMS project.
 
